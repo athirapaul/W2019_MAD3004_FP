@@ -1,5 +1,5 @@
 //
-//  Person.swift
+//  Faculty.swift
 //  W2019_MAD3004_FP
 //
 //  Created by Athira Paul on 2019-02-14.
@@ -7,8 +7,6 @@
 //
 
 import Foundation
-class Person{
-    var h: Int = 1
+class Faculty{
     
 }
-
