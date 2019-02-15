@@ -8,5 +8,6 @@
 
 import Foundation
 class Person{
-    
+    var h: Int = 1
 }
+
